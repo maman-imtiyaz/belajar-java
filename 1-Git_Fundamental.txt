@@ -1,0 +1,18 @@
+Silahkan anda ganti tanda (--) dengan OK apabila anda sudah 
+menyelesaikan poin2 dibawah ini.
+apabila sudah silahkan anda commit dengan pesan 
+sebagai berikut "poin X selesai" dimana X adalah nomor poin.
+pastikan setiap 1 poin selesai anda commit 1 pesan.
+sebagai contoh setelah membaca pesan ini anda edit tanda --
+menjadi OK pada poin 1 lalu commit dengan pesan "poin 1 selesai"
+
+-- 1. Pastikan anda membaca file ini.
+
+-- 2. Apa itu Version Control?
+      http://www.youtube.com/watch?v=gY2JwRfin1M
+
+-- 2. Silahkan pelajari materi pada link berikut
+      http://www.maxwebsitedesign.com/pdf_files/git1.pdf
+
+-- 3. Silahkan pelajari materi pada link berikut
+      http://onlywei.github.io/explain-git-with-d3/

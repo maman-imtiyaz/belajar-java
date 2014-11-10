@@ -11,8 +11,8 @@ OK 1. Pastikan anda membaca file ini.
 OK 2. Apa itu Version Control?
       http://www.youtube.com/watch?v=gY2JwRfin1M
 
--- 2. Silahkan pelajari materi pada link berikut
+OK 3. Silahkan pelajari materi pada link berikut
       http://www.maxwebsitedesign.com/pdf_files/git1.pdf
 
--- 3. Silahkan pelajari materi pada link berikut
+-- 4. Silahkan pelajari materi pada link berikut
       http://onlywei.github.io/explain-git-with-d3/

@@ -8,7 +8,7 @@ menjadi OK pada poin 1 lalu commit dengan pesan "poin 1 selesai"
 
 OK 1. Pastikan anda membaca file ini.
 
--- 2. Apa itu Version Control?
+OK 2. Apa itu Version Control?
       http://www.youtube.com/watch?v=gY2JwRfin1M
 
 -- 2. Silahkan pelajari materi pada link berikut

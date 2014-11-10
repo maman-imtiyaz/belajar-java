@@ -6,7 +6,7 @@ pastikan setiap 1 poin selesai anda commit 1 pesan.
 sebagai contoh setelah membaca pesan ini anda edit tanda --
 menjadi OK pada poin 1 lalu commit dengan pesan "poin 1 selesai"
 
--- 1. Pastikan anda membaca file ini.
+OK 1. Pastikan anda membaca file ini.
 
 -- 2. Apa itu Version Control?
       http://www.youtube.com/watch?v=gY2JwRfin1M
